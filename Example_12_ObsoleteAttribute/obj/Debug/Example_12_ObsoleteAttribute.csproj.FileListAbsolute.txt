@@ -1,0 +1,5 @@
+D:\Brain Academy\Assembly_management_Examples\Example_12_ObsoleteAttribute\bin\Debug\Example_12_ObsoleteAttribute.exe.config
+D:\Brain Academy\Assembly_management_Examples\Example_12_ObsoleteAttribute\bin\Debug\Example_12_ObsoleteAttribute.exe
+D:\Brain Academy\Assembly_management_Examples\Example_12_ObsoleteAttribute\bin\Debug\Example_12_ObsoleteAttribute.pdb
+D:\Brain Academy\Assembly_management_Examples\Example_12_ObsoleteAttribute\obj\Debug\Example_12_ObsoleteAttribute.exe
+D:\Brain Academy\Assembly_management_Examples\Example_12_ObsoleteAttribute\obj\Debug\Example_12_ObsoleteAttribute.pdb

@@ -1,0 +1,7 @@
+D:\Brain Academy\Assembly_management_Examples\Example_9_UnitTest\bin\Debug\Example_9_UnitTest.dll
+D:\Brain Academy\Assembly_management_Examples\Example_9_UnitTest\bin\Debug\Example_9_UnitTest.pdb
+D:\Brain Academy\Assembly_management_Examples\Example_9_UnitTest\obj\Debug\Example_9_UnitTest.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Assembly_management_Examples\Example_9_UnitTest\obj\Debug\Example_9_UnitTest.dll
+D:\Brain Academy\Assembly_management_Examples\Example_9_UnitTest\obj\Debug\Example_9_UnitTest.pdb
+D:\Brain Academy\Assembly_management_Examples\Example_9_UnitTest\bin\Debug\Example_10_UnitTest_With_Exception.exe
+D:\Brain Academy\Assembly_management_Examples\Example_9_UnitTest\bin\Debug\Example_10_UnitTest_With_Exception.pdb

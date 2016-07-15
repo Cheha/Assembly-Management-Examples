@@ -1,0 +1,6 @@
+D:\Brain Academy\Assembly_management_Examples\Example_7_PerfomanceCounters\bin\Debug\Example_7_PerfomanceCounters.exe.config
+D:\Brain Academy\Assembly_management_Examples\Example_7_PerfomanceCounters\bin\Debug\Example_7_PerfomanceCounters.exe
+D:\Brain Academy\Assembly_management_Examples\Example_7_PerfomanceCounters\bin\Debug\Example_7_PerfomanceCounters.pdb
+D:\Brain Academy\Assembly_management_Examples\Example_7_PerfomanceCounters\obj\Debug\Example_7_PerfomanceCounters.exe
+D:\Brain Academy\Assembly_management_Examples\Example_7_PerfomanceCounters\obj\Debug\Example_7_PerfomanceCounters.pdb
+D:\Brain Academy\Assembly_management_Examples\Example_7_PerfomanceCounters\obj\Debug\Example_7_PerfomanceCounters.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Brain Academy\Assembly_management_Examples\Example_6_TraceSource\bin\Debug\Example_6_TraceSource.exe.config
+D:\Brain Academy\Assembly_management_Examples\Example_6_TraceSource\bin\Debug\Example_6_TraceSource.exe
+D:\Brain Academy\Assembly_management_Examples\Example_6_TraceSource\bin\Debug\Example_6_TraceSource.pdb
+D:\Brain Academy\Assembly_management_Examples\Example_6_TraceSource\obj\Debug\Example_6_TraceSource.exe
+D:\Brain Academy\Assembly_management_Examples\Example_6_TraceSource\obj\Debug\Example_6_TraceSource.pdb
+D:\Brain Academy\Assembly_management_Examples\Example_6_TraceSource\obj\Debug\Example_6_TraceSource.csprojResolveAssemblyReference.cache

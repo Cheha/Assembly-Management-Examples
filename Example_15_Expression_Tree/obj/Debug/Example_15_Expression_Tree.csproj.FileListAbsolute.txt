@@ -1,0 +1,5 @@
+D:\Brain Academy\Assembly_management_Examples\Example_15_Expression_Tree\bin\Debug\Example_15_Expression_Tree.exe.config
+D:\Brain Academy\Assembly_management_Examples\Example_15_Expression_Tree\bin\Debug\Example_15_Expression_Tree.exe
+D:\Brain Academy\Assembly_management_Examples\Example_15_Expression_Tree\bin\Debug\Example_15_Expression_Tree.pdb
+D:\Brain Academy\Assembly_management_Examples\Example_15_Expression_Tree\obj\Debug\Example_15_Expression_Tree.exe
+D:\Brain Academy\Assembly_management_Examples\Example_15_Expression_Tree\obj\Debug\Example_15_Expression_Tree.pdb

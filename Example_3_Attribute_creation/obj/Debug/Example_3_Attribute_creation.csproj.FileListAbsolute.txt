@@ -1,0 +1,6 @@
+D:\Brain Academy\Assembly_management_Examples\Example_3_Attribute_creation\bin\Debug\Example_3_Attribute_creation.exe.config
+D:\Brain Academy\Assembly_management_Examples\Example_3_Attribute_creation\bin\Debug\Example_3_Attribute_creation.exe
+D:\Brain Academy\Assembly_management_Examples\Example_3_Attribute_creation\bin\Debug\Example_3_Attribute_creation.pdb
+D:\Brain Academy\Assembly_management_Examples\Example_3_Attribute_creation\obj\Debug\Example_3_Attribute_creation.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Assembly_management_Examples\Example_3_Attribute_creation\obj\Debug\Example_3_Attribute_creation.exe
+D:\Brain Academy\Assembly_management_Examples\Example_3_Attribute_creation\obj\Debug\Example_3_Attribute_creation.pdb

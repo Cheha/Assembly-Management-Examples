@@ -1,0 +1,6 @@
+D:\Brain Academy\Assembly_management_Examples\Example_13_CreateInstance\bin\Debug\Example_13_CreateInstance.exe.config
+D:\Brain Academy\Assembly_management_Examples\Example_13_CreateInstance\bin\Debug\Example_13_CreateInstance.exe
+D:\Brain Academy\Assembly_management_Examples\Example_13_CreateInstance\bin\Debug\Example_13_CreateInstance.pdb
+D:\Brain Academy\Assembly_management_Examples\Example_13_CreateInstance\obj\Debug\Example_13_CreateInstance.exe
+D:\Brain Academy\Assembly_management_Examples\Example_13_CreateInstance\obj\Debug\Example_13_CreateInstance.pdb
+D:\Brain Academy\Assembly_management_Examples\Example_13_CreateInstance\obj\Debug\Example_13_CreateInstance.csprojResolveAssemblyReference.cache

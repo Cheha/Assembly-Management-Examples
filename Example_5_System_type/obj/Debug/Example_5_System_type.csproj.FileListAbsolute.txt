@@ -1,0 +1,6 @@
+D:\Brain Academy\Assembly_management_Examples\Example_5_System_type\bin\Debug\Example_5_System_type.exe.config
+D:\Brain Academy\Assembly_management_Examples\Example_5_System_type\bin\Debug\Example_5_System_type.exe
+D:\Brain Academy\Assembly_management_Examples\Example_5_System_type\bin\Debug\Example_5_System_type.pdb
+D:\Brain Academy\Assembly_management_Examples\Example_5_System_type\obj\Debug\Example_5_System_type.exe
+D:\Brain Academy\Assembly_management_Examples\Example_5_System_type\obj\Debug\Example_5_System_type.pdb
+D:\Brain Academy\Assembly_management_Examples\Example_5_System_type\obj\Debug\Example_5_System_type.csprojResolveAssemblyReference.cache

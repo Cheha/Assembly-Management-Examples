@@ -1,0 +1,5 @@
+D:\Brain Academy\Assembly_management_Examples\Example_14_CodeDOM\bin\Debug\Example_14_CodeDOM.exe.config
+D:\Brain Academy\Assembly_management_Examples\Example_14_CodeDOM\bin\Debug\Example_14_CodeDOM.exe
+D:\Brain Academy\Assembly_management_Examples\Example_14_CodeDOM\bin\Debug\Example_14_CodeDOM.pdb
+D:\Brain Academy\Assembly_management_Examples\Example_14_CodeDOM\obj\Debug\Example_14_CodeDOM.exe
+D:\Brain Academy\Assembly_management_Examples\Example_14_CodeDOM\obj\Debug\Example_14_CodeDOM.pdb

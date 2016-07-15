@@ -1,0 +1,6 @@
+D:\Brain Academy\Assembly_management_Examples\Example_11_Reflection\bin\Debug\Example_11_Reflection.exe.config
+D:\Brain Academy\Assembly_management_Examples\Example_11_Reflection\bin\Debug\Example_11_Reflection.exe
+D:\Brain Academy\Assembly_management_Examples\Example_11_Reflection\bin\Debug\Example_11_Reflection.pdb
+D:\Brain Academy\Assembly_management_Examples\Example_11_Reflection\obj\Debug\Example_11_Reflection.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Assembly_management_Examples\Example_11_Reflection\obj\Debug\Example_11_Reflection.exe
+D:\Brain Academy\Assembly_management_Examples\Example_11_Reflection\obj\Debug\Example_11_Reflection.pdb

@@ -1,0 +1,6 @@
+D:\Brain Academy\Assembly_management_Examples\Example_8_DisposeMethod\bin\Debug\Example_8_DisposeMethod.exe.config
+D:\Brain Academy\Assembly_management_Examples\Example_8_DisposeMethod\bin\Debug\Example_8_DisposeMethod.exe
+D:\Brain Academy\Assembly_management_Examples\Example_8_DisposeMethod\bin\Debug\Example_8_DisposeMethod.pdb
+D:\Brain Academy\Assembly_management_Examples\Example_8_DisposeMethod\obj\Debug\Example_8_DisposeMethod.exe
+D:\Brain Academy\Assembly_management_Examples\Example_8_DisposeMethod\obj\Debug\Example_8_DisposeMethod.pdb
+D:\Brain Academy\Assembly_management_Examples\Example_8_DisposeMethod\obj\Debug\Example_8_DisposeMethod.csprojResolveAssemblyReference.cache

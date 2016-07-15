@@ -1,0 +1,5 @@
+D:\Brain Academy\Assembly_management_Examples\Example_4_Assembly_load\bin\Debug\Example_4_Assembly_load.exe.config
+D:\Brain Academy\Assembly_management_Examples\Example_4_Assembly_load\bin\Debug\Example_4_Assembly_load.exe
+D:\Brain Academy\Assembly_management_Examples\Example_4_Assembly_load\bin\Debug\Example_4_Assembly_load.pdb
+D:\Brain Academy\Assembly_management_Examples\Example_4_Assembly_load\obj\Debug\Example_4_Assembly_load.exe
+D:\Brain Academy\Assembly_management_Examples\Example_4_Assembly_load\obj\Debug\Example_4_Assembly_load.pdb
